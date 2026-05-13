@@ -1,5 +1,5 @@
 
-# Bantu-Bantu – IT Support & Cybersecurity Portfolio
+# Bantu – IT Support & Cybersecurity Portfolio
 
 ## About Me
 
