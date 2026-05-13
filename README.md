@@ -35,5 +35,5 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 
 ## Contact
 
-* LinkedIn: Add your LinkedIn link here
-* Email: ybantu70@gmail.com
+* LinkedIn: https://www.linkedin.com/in/bantu-it
+
