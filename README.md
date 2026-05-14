@@ -43,13 +43,13 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 - Managed permissions
 - Reset passwords and unlocked accounts
 ###  AD User Permissions
+Created users, configured permissions, and managed account settings in Active Directory
 ![AD Users Permissions](AD_Users_Permissions.png)
 ### Finance Group Membership
+Assigned users to security groups for department-based access control.
 ![Finance Group Membership](Finance_Group_Membership.png)
 
 ### Shared Folder Access
-- Configured shared folder permissions
-- Assigned user/group access
-
+Configured shared folder permissions and verified user access.
 ![Shared Folder Access](Shared_Folder_Access.png)
 
