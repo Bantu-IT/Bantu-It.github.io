@@ -42,9 +42,9 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 - Created users and groups
 - Managed permissions
 - Reset passwords and unlocked accounts
-
+###  AD User Permissions
 ![AD Users Permissions](AD_Users_Permissions.png)
-
+### Finance Group Membership
 ![Finance Group Membership](Finance_Group_Membership.png)
 
 ### Shared Folder Access
