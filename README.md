@@ -37,3 +37,19 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 
 * LinkedIn: https://www.linkedin.com/in/bantu-it
 
+## Projects / Labs
+### Active Directory Home Lab
+- Created users and groups
+- Managed permissions
+- Reset passwords and unlocked accounts
+
+![AD Users Permissions](AD_Users_Permissions.png)
+
+![Finance Group Membership](Finance_Group_Membership.png)
+
+### Shared Folder Access
+- Configured shared folder permissions
+- Assigned user/group access
+
+![Shared Folder Access](Shared_Folder_Access.png)
+
