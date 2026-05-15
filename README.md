@@ -53,3 +53,27 @@ Assigned users to security groups for department-based access control.
 Configured shared folder permissions and verified user access.
 ![Shared Folder Access](Shared_Folder_Access.png)
 
+### Password Reset
+Reset passwords in Active Directory and Help Desk ticketing system.
+
+![Password Reset](AD-Password-Reset-Spiceworks.png)
+
+### Account Lockout
+Unlocked user accounts in Active Directory.
+
+![Account Lockout](AD-Account-Lockout-Unlock.png)
+
+### Printer Ticket
+Created and handled printer troubleshooting ticket.
+
+![Printer Ticket](printer-ticket-row.png)
+
+### Printer Not Responding
+Troubleshot printer issue through ticketing system.
+
+![Printer Not Responding](printer-not-responding.png)
+
+### Ticket List
+Help desk ticket overview in Spiceworks.
+
+![Ticket List](ticket-List.png)
