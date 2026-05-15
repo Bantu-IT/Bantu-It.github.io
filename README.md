@@ -24,6 +24,18 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 * Managed permissions
 * Reset passwords and unlocked accounts
 
+### Group Policy Lab
+
+* Configured password policies
+* Restricted Control Panel access
+* Applied user settings using Group Policy
+
+#### GPO Configuration
+![Group Policy](Group-Policy-Control-Panel.png)
+
+#### Policy Result / Test
+![Group Policy Result](Group-Policy-Result.png)
+
 ### Networking Lab
 
 * Used ping, ipconfig, nslookup, and tracert
@@ -38,6 +50,7 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 * LinkedIn: https://www.linkedin.com/in/bantu-it
 
 ## Projects / Labs
+ 
 ### Active Directory Home Lab
 - Created users and groups
 - Managed permissions
