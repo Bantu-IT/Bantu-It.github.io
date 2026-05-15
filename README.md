@@ -38,8 +38,18 @@ Aspiring IT Support and Cybersecurity professional with hands-on experience in A
 
 ### Networking Lab
 
-* Used ping, ipconfig, nslookup, and tracert
-* Basic network troubleshooting
+• Used ipconfig to view IP configuration and network settings  
+• Used ping to test network connectivity  
+• Used nslookup to verify DNS resolution  
+
+#### IP Configuration
+![ipconfig](ipconfig-lab.png)
+
+#### Ping Test
+![ping](ping-test.png)
+
+#### DNS Lookup
+![nslookup](nslookup-test.png)
 
 ## Certifications
 
