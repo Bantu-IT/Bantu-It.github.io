@@ -99,7 +99,7 @@ Troubleshot printer issue through ticketing system.
 ### Ticket List
 Help desk ticket overview in Spiceworks.
 
-![Ticket List](ticket-List.png)
+
 ### IT Support Ticketing System Lab (Spiceworks)
 - Created and resolved IT support tickets in Spiceworks Help Desk
 - Reset passwords and unlocked user accounts in Active Directory
