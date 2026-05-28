@@ -106,3 +106,20 @@ Help desk ticket overview in Spiceworks.
 - Managed shared folder permissions and access issues
 - Resolved software installation problems (Microsoft Office)
 - Added resolution notes and closed completed tickets
+
+  ## Microsoft 365 Administration Labs
+
+### User Management
+![User Management](microsoft-365-user-management-lab.png)
+
+### Password Reset
+![Password Reset](microsoft365-password-reset-lab.png)
+
+### MFA Enabled
+![MFA Enabled](m365-mfa-enabled.png)
+
+### Block Sign-In
+![Block Sign-In](microsoft365-block-signin-lab.png)
+
+### Security Group Membership
+![Security Group](m365-security-group-member.png)
