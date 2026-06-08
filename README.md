@@ -144,7 +144,7 @@ Help desk ticket overview in Spiceworks.
 - Application Registration
 - Identity and Access Management (IAM)
 
-- ## Screenshots
+ ## Screenshots
 
 ### Team Creation
 ![Team Creation](M365-Team-Creation.png)
