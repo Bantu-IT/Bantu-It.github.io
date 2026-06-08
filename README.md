@@ -153,7 +153,7 @@ Help desk ticket overview in Spiceworks.
 ### User Overview
 ![User Overview](user-overview.png)
 ### Authentication Methods (MFA)
-![Authentication Methods](./user-authentication-methods.png)
+![Authentication Methods](user-authentication-methods.png)
 ### Audit Logs
 ![Audit Logs](user-audit-logs.png)
 ### Application Registration
