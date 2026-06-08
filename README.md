@@ -143,3 +143,22 @@ Help desk ticket overview in Spiceworks.
 - Audit Logging
 - Application Registration
 - Identity and Access Management (IAM)
+
+- ## Screenshots
+
+### Team Creation
+![Team Creation](M365-Team-Creation.png)
+### Teams and Groups
+![Teams and Groups](m365-teams-and-groups.png)
+### User Overview
+![User Overview](user-overview.png)
+### Authentication Methods (MFA)
+![Authentication Methods](user-authentication-methods.png)
+### Audit Logs
+![Audit Logs](user-audit-logs.png)
+### Application Registration
+![Application Registration](app-registration-form.png)
+### Application Overview
+![Application Overview](app-registration-overview.png)
+
+
