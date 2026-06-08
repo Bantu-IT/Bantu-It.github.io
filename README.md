@@ -123,3 +123,23 @@ Help desk ticket overview in Spiceworks.
 
 ### Security Group Membership
 ![Security Group](m365-security-group-member.png)
+
+## Microsoft 365 Administration Lab
+
+### Tasks Completed
+1. Created a Microsoft Team (IT Support Team)
+2. Managed Microsoft 365 Groups and Team Memberships
+3. Created and Managed User Accounts in Microsoft Entra ID
+4. Configured Multi-Factor Authentication (MFA)
+5. Reviewed User Audit Logs
+6. Registered an Application in Microsoft Entra ID
+7. Reviewed Application Configuration and Settings
+
+### Skills Demonstrated
+- Microsoft 365 Administration
+- Microsoft Entra ID
+- User Management
+- Multi-Factor Authentication (MFA)
+- Audit Logging
+- Application Registration
+- Identity and Access Management (IAM)
