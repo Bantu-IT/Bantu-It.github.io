@@ -144,21 +144,43 @@ Help desk ticket overview in Spiceworks.
 - Application Registration
 - Identity and Access Management (IAM)
 
- ## Screenshots
+## Microsoft 365 Administration Lab
 
-### Team Creation
-![Team Creation](M365-Team-Creation.png)
-### Teams and Groups
-![Teams and Groups](m365-teams-and-groups.png)
-### User Overview
-![User Overview](user-overview.png)
-### Authentication Methods (MFA)
-![Authentication Methods](user-authentication-methods.png)
-### Audit Logs
-![Audit Logs](user-audit-logs.png)
-### Application Registration
-![Application Registration](app-registration-form.png)
-### Application Overview
-![Application Overview](app-registration-overview.png)
+### Objectives
+- Create and manage Microsoft 365 Groups
+- Configure Shared Mailboxes
+- Assign mailbox permissions
+- Create Distribution Lists
+- Manage Teams Channels
+- Configure user access and collaboration resources
+
+### Shared Mailbox Configuration
+
+#### Shared Mailbox Overview
+![Shared Mailbox Overview](shared-mailbox-overview.png)
+
+#### Shared Mailbox Members
+![Shared Mailbox Members](shared-mailbox-members.png)
+
+#### Full Access Permissions
+![Full Access Permissions](shared-mailbox-full-access-permissions.png)
+
+#### Send on Behalf Permissions
+![Send on Behalf Permissions](shared-mailbox-send-on-behalf-permissions.png)
+
+### Distribution Lists
+
+#### Distribution List Overview
+![Distribution List Overview](distribution-list-overview.png)
+
+#### Distribution List Members
+![Distribution List Members](distribution-list-members.png)
+
+### Microsoft Teams Channels
+
+#### Teams Channels Overview
+![Teams Channels Overview](m365-teams-channels-overview.png)
+
+
 
 
