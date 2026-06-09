@@ -165,9 +165,6 @@ Help desk ticket overview in Spiceworks.
 #### Full Access Permissions
 ![Full Access Permissions](shared-mailbox-full-access-permissions.png)
 
-#### Send on Behalf Permissions
-![Send on Behalf Permissions](shared-mailbox-send-on-behalf-permissions.png)
-
 ### Distribution Lists
 
 #### Distribution List Overview
